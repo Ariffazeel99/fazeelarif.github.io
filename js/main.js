@@ -1,8 +1,5 @@
 /*global $, jQuery, alert*/
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5751573395368444"
-     crossorigin="anonymous"></script>
-     
 $(document).ready(function() {
 
   'use strict';
