@@ -21,6 +21,18 @@ Welcome to the GitHub repository for my portfolio website, showcasing my journey
 - **Omicron Web Application**: A MERN stack project contributing to both frontend and backend development, focusing on authentication and efficient data management.
 - **Identification of Apple Leaf Diseases**: A cross-platform application that uses image processing and machine learning algorithms for disease diagnosis.
 
+## Achievements
+
+Highlight any awards, recognitions, or milestones achieved in your career or academic journey. This section underscores your commitment to excellence and innovation.
+
+## Contributions
+
+Detail your contributions to open source projects, community initiatives, or collaborations that underscore your commitment to giving back to the tech community.
+
+## Publications & Talks
+
+Include links to any papers, articles, or conference talks you've given. This section provides insight into your thought leadership and areas of expertise.
+
 ## How to Navigate
 
 This repository contains the source code and resources for my portfolio website. Feel free to explore the projects and learn more about my technical skills and professional journey.
