@@ -80,7 +80,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Fazeel Arif.", " Software Engineer.", " Data Analyst."],
+      strings: ["Fazeel Arif.", " Software Engineer.", " Artificial Intelligence."],
       typeSpeed: 100,
       loop: true,
     });
